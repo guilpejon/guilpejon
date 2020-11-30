@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm <a href="https://guilpejon.me">Guil</a></h1>
 
+- 🚀 Currently working at [Liber Capital](https://www.linkedin.com/company/liber-capital) as Head of Development
+- 📝 I like to write articles at [Medium](https://medium.com/guilpejon)
+- 📫 Reach me through my [website](https://guilpejon.me)
+- 💬 Ask me about web development, product, design or music
+- ⚡ Fun fact: If I'm not working on a side project right now, I'm thinking about creating a new one
+
+<hr/>
+
 <p align="center">
   <a href="https://medium.com/guilpejon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/medium.svg" alt="medium" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/guilpejon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
@@ -9,18 +17,3 @@
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=guilpejon&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilpejon&layout=compact&hide=HTML,CSS,SCSS,Objective-C&langs_count=10&theme=dracula)](https://github.com/guilpejon/github-readme-stats)
-
-<!--
-**guilpejon/guilpejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
