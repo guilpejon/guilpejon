@@ -17,3 +17,5 @@
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=guilpejon&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilpejon&layout=compact&hide=HTML,CSS,SCSS,Objective-C&langs_count=10&theme=dracula)](https://github.com/guilpejon/github-readme-stats)
+
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/guilpejon/count.svg" alt=""/></p> -->
