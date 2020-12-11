@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://guilpejon.me">Guil</a></h1>
 
 - 🚀 Currently working at [Liber Capital](https://www.linkedin.com/company/liber-capital) as Head of Development
-- 📝 I like to write articles at [Medium](https://medium.com/guilpejon)
+- 📝 I like to write articles on [Medium](https://medium.com/guilpejon)
 - 📫 Reach me through my [website](https://guilpejon.me)
 - 💬 Ask me about web development, product, design or music
 - ⚡ Fun fact: If I'm not working on a side project right now, I'm thinking about creating a new one
