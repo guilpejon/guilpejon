@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/871362/121782432-cc12c780-cb7f-11eb-9ee5-834ce8a652ae.png)](https://guilpejon.me)
+[![MasterHead](https://user-images.githubusercontent.com/871362/121782923-6411b080-cb82-11eb-93a3-1f2d01de3805.png)](https://guilpejon.me)
 
 <p align="center">
   <img src="https://badges.pufler.dev/years/guilpejon"/>
