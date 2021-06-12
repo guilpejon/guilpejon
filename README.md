@@ -10,8 +10,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://guilpejon.me">Guil</a>!</h1>
 
 - 🚀 Currently working at [Liber Capital](https://www.linkedin.com/company/liber-capital) as Head of Technology
-- 🎨 I like to create art [website](https://guilpejon.me/images)
-- 🎶 I like to create music [website](https://guilpejon.me/videos)
+- 🎨 I like to create [art](https://guilpejon.me/images)
+- 🎶 I like to create [music](https://guilpejon.me/videos)
 - 📝 I like to write articles on [Medium](https://medium.com/guilpejon)
 - 📫 Reach me through my [website](https://guilpejon.me)
 - 💬 Ask me about web development, product, design or music
