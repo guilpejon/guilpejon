@@ -12,7 +12,7 @@
 - 🚀 Currently working at [Liber Capital](https://www.linkedin.com/company/liber-capital) as Head of Technology
 - 🎨 I like to create [art](https://guilpejon.me/images)
 - 🎶 I like to create [music](https://guilpejon.me/videos)
-- 📝 I like to write articles on [Medium](https://medium.com/guilpejon)
+- 📝 I like to write [articles](https://medium.com/guilpejon)
 - 📫 Reach me through my [website](https://guilpejon.me)
 - 💬 Ask me about web development, product, design or music
 - ⚡ Fun fact: If I'm not working on a side project right now, I'm thinking about creating a new one
