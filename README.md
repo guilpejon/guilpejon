@@ -1,11 +1,4 @@
 [![MasterHead](https://user-images.githubusercontent.com/871362/121782923-6411b080-cb82-11eb-93a3-1f2d01de3805.png)](https://guilpejon.me/images)
-
-<p align="center">
-  <img src="https://badges.pufler.dev/years/guilpejon"/>
-  <img src="https://badges.pufler.dev/visits/guilpejon/guilpejon"/> 
-  <img src="https://badges.pufler.dev/repos/guilpejon"/>
-  <img src="https://badges.pufler.dev/commits/monthly/guilpejon" />
-</p>
  
 <h1 align="center">Hi 👋, I'm <a href="https://guilpejon.me">Guil</a>!</h1>
 
@@ -13,7 +6,6 @@
 - 🎨 I like to create [art](https://guilpejon.me/images)
 - 🎶 I like to create [music](https://guilpejon.me/videos)
 - 📝 I like to write [articles](https://medium.com/guilpejon)
-- 📫 Reach me through my [website](https://guilpejon.me)
 - 💬 Ask me about web development, product, design or music
 - ⚡ Fun fact: If I'm not working on a side project right now, I'm thinking about creating a new one
 
