@@ -1,15 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/871362/121782923-6411b080-cb82-11eb-93a3-1f2d01de3805.png)](https://guilpejon.me/images)
- 
 <h1 align="center">Hi 👋, I'm <a href="https://guilpejon.me">Guil</a>!</h1>
 
-- 🚀 Currently working at [Liber Capital](https://www.linkedin.com/company/liber-capital) as Head of Technology
-- 🎨 I like to create [art](https://guilpejon.me/images)
-- 🎶 I like to create [music](https://guilpejon.me/videos)
-- 📝 I like to write [articles](https://medium.com/guilpejon)
-- 💬 Ask me about web development, product, design or music
-- ⚡ Fun fact: If I'm not working on a side project right now, I'm thinking about creating a new one
-
-<hr/>
+[![MasterHead](https://user-images.githubusercontent.com/871362/121782923-6411b080-cb82-11eb-93a3-1f2d01de3805.png)](https://guilpejon.me/images)
 
 <!-- <p align="center">
   <a href="https://medium.com/guilpejon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/medium.svg" alt="medium" height="30" width="30" /></a>
